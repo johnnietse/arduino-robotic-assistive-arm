@@ -15,10 +15,6 @@ This project implements a robotic assistive arm using an Arduino and a motor shi
 - Connecting/Jumper wires
 - Breadboard
 
-## Circuit Diagram
-
-![Circuit Diagram](path/to/your/circuit_diagram.png) <!-- Replace with the path to your diagram -->
-
 ## Code Explanation
 
 The main components of the code are:
